@@ -24,7 +24,7 @@ A 5-page end-to-end BI dashboard built with a combination of:
 - Bar chart: Revenue by Product Category
 - Line chart: Units Sold by State
 
-![Sales Overview](screenshots/Screenshot_1.jpg)
+![Sales Overview](https://github.com/aniketpatil94409/Samsung-India-Product-sales-Review/blob/main/Screenshot_1.jpg)
 
 
 ### 2️⃣ Regional Performance
@@ -32,7 +32,7 @@ A 5-page end-to-end BI dashboard built with a combination of:
 - Stacked column: Units by Region and Category
 - Pie: Revenue Share by Region
 
-![Sales Overview](screenshots/Screenshot_2.jpg)
+![Sales Overview](https://github.com/aniketpatil94409/Samsung-India-Product-sales-Review/blob/main/Screenshot_2.jpg)
 
 
 ### 3️⃣ Product Analysis
@@ -41,7 +41,7 @@ A 5-page end-to-end BI dashboard built with a combination of:
 - ASP by Product Category
 - Gauge: Total Warranty Claims
 
-![Sales Overview](screenshots/Screenshot_3.jpg)
+![Sales Overview](https://github.com/aniketpatil94409/Samsung-India-Product-sales-Review/blob/main/Screenshot_3.jpg)
 
 
 ### 4️⃣ Customer Sentiments
@@ -50,7 +50,7 @@ A 5-page end-to-end BI dashboard built with a combination of:
 - Table: Customer Review Details
 - Bar chart: Star Rating by Platform
 
-![Sales Overview](screenshots/Screenshot_4.jpg)
+![Sales Overview](https://github.com/aniketpatil94409/Samsung-India-Product-sales-Review/blob/main/Screenshot_4.jpg)
 
 
 ### 5️⃣ Channel Performance
@@ -59,7 +59,7 @@ A 5-page end-to-end BI dashboard built with a combination of:
 - Pie: Sales Share by Channel
 - Table: Channel wise Customer Feedback
 
-![Sales Overview](screenshots/Screenshot_5.jpg)
+![Sales Overview](https://github.com/aniketpatil94409/Samsung-India-Product-sales-Review/blob/main/Screenshot_5.jpg)
 
 
 ---
