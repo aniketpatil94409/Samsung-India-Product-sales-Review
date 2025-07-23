@@ -24,10 +24,16 @@ A 5-page end-to-end BI dashboard built with a combination of:
 - Bar chart: Revenue by Product Category
 - Line chart: Units Sold by State
 
+![Sales Overview](screenshots/Screenshot_1.jpg)
+
+
 ### 2️⃣ Regional Performance
 - Map: Revenue by State
 - Stacked column: Units by Region and Category
 - Pie: Revenue Share by Region
+
+![Sales Overview](screenshots/Screenshot_2.jpg)
+
 
 ### 3️⃣ Product Analysis
 - Bar: Top 10 Products by Revenue
@@ -35,17 +41,26 @@ A 5-page end-to-end BI dashboard built with a combination of:
 - ASP by Product Category
 - Gauge: Total Warranty Claims
 
+![Sales Overview](screenshots/Screenshot_3.jpg)
+
+
 ### 4️⃣ Customer Sentiments
 - KPI cards: Avg Rating, Review Counts
 - Pie chart: Sentiment Breakdown
 - Table: Customer Review Details
 - Bar chart: Star Rating by Platform
 
+![Sales Overview](screenshots/Screenshot_4.jpg)
+
+
 ### 5️⃣ Channel Performance
 - KPIs: Online vs Offline Revenue
 - Bar: Revenue by Platform / Store
 - Pie: Sales Share by Channel
 - Table: Channel wise Customer Feedback
+
+![Sales Overview](screenshots/Screenshot_5.jpg)
+
 
 ---
 ## Python
